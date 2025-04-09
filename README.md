@@ -64,13 +64,3 @@ run.bat
    ```
    python main.py
    ```
-
-## Warning
-
-This application is provided for EDUCATIONAL PURPOSES ONLY. Using API keys that you found exposed is unethical, potentially illegal, and harmful to the owner of the key.
-
-- It can incur costs for the legitimate owner
-- It can lead to the key being revoked, breaking the owner's application
-- You could be banned from the service or face legal consequences
-
-DO NOT use this application with exposed keys found in website code. Replace the placeholder with your OWN legitimate key.
