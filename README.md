@@ -1,4 +1,4 @@
-# OpenRouter GUI Client
+# LLM API testing client
 
 A graphical user interface for interacting with the OpenAI compatible LLM APIs for text completions.
 
