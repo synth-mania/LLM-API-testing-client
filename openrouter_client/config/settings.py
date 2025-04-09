@@ -28,8 +28,8 @@ class Config:
         "output_price_per_million": 600,  # $600 per million tokens
         
         # HTTP Headers
-        "http_referer": "https://ghiblidesign.vercel.app",
-        "x_title": "Ghiblify",
+        "http_referer": "https://llm-api-testing-client.github.io",
+        "x_title": "LLM API Testing Client",
         
         # System prompt
         "system_prompt": "You are a helpful assistant.",
